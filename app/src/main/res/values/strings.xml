@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">"Search"</string>
+    <string name="loading_msg">"Loading …"</string>
+    <string name="search_location_hint">"Search Location"</string>
+    <string name="no_city_selected">"No City Selected"</string>
+    <string name="uv">"UV"</string>">
+    <string name="humidity">"Humidity"</string>">
+    <string name="feels_like">"Feels Like"</string>">
+    <string name="location">"Location"</string>">
+    <string name="search_for_city">"Please Search For A City"</string>
+    <string name="weather_condition">"Weather Condition"</string>
+    <string name="error_msg">"Error, Please Try Again Later."</string>
+    <string name="preference_file_key">"weather_preferences"</string>">
+    <string name="no_matching_location_found">"No matching location found."</string>
+</resources>
